@@ -33,3 +33,10 @@ Tools Used
 - Scikit-learn
 - Pandas
 - Jupyter Notebook
+  
+OUTPUT
+
+Below is the OUTPUT OF Sentiment Analysis with NLP
+
+
+![Sentiment Analysis with NLP](OUTPUT2.jpg)
