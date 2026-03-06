@@ -39,6 +39,4 @@ The model achieved good accuracy on the test dataset.
 
 Visualization
 
-Below is the visualization of the trained Decision Tree model.
-
-![Decision Tree](OUTPUT3.png)
+![VISUALIZATION](OUTPUT3.png)
