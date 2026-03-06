@@ -32,4 +32,8 @@ Tools Used
 - Pandas
 - Scikit-learn
 - Jupyter Notebook
-(OUTPUT4.png)
+
+OUTPUT
+
+Below is the OUTPUT of the RECOMMENDATION SYSTEM
+![OUTPUT](OUTPUT.png)
