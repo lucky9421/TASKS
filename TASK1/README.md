@@ -37,3 +37,8 @@ The decision tree visualization helps in understanding how the model makes decis
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+7. Visualization
+
+Below is the visualization of the trained Decision Tree model.
+
+![Decision Tree](OUTPUT.png)
